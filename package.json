@@ -26,7 +26,7 @@
     "@changesets/cli": "^2.29.7",
     "@effect/language-service": "^0.37.0",
     "@effect/platform-node": "https://pkg.pr.new/Effect-TS/effect-smol/@effect/platform-node@fa86ef8",
-    "@types/node": "^24.7.0",
+    "@types/node": "^24.9.1",
     "@types/unist": "^3.0.3",
     "effect": "https://pkg.pr.new/Effect-TS/effect-smol/effect@fa86ef8",
     "minisearch": "^7.2.0",
@@ -40,5 +40,5 @@
     "typescript": "^5.9.3",
     "unified": "^11.0.5"
   },
-  "packageManager": "pnpm@10.12.1+sha512.f0dda8580f0ee9481c5c79a1d927b9164f2c478e90992ad268bbb2465a736984391d6333d2c327913578b2804af33474ca554ba29c04a8b13060a717675ae3ac"
+  "packageManager": "pnpm@latest"
 }

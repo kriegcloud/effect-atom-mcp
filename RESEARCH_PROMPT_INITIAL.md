@@ -1,0 +1,45 @@
+This [repository](https://github.com/kriegcloud/effect-atom-mcp) is a fork of the [effect-mcp](https://github.com/tim-smart/effect-mcp) I want you to help me create a prompt I can provide to another session of GPT-5 Codex in RESEARCH_PROMPT.md to perform research on the following things:
+  - How can we improve this MCP Server to increase an LLM's ability to write effect based typescript code (embeddings for semantic search, add additional Resources, Prompt Examples & useful Tools maybe?)
+  - How can we incorporate the `@effect-atom/atom-react` effect ecosystem library and it's associated documentation, codesnippets and other useful data we can find on the internet as it relates to this library similar to how this is already done for the core effect
+  library? Here are some links I've found for effect-atom so far:
+    - [Github Repo](https://github.com/tim-smart/effect-atom/tree/main)
+    - [DeepWiki](https://deepwiki.com/tim-smart/effect-mcp)
+    - [Gist with examples](https://gist.github.com/lucas-barake/098bd87a89a09f280a0f427339d12120)
+    - [Todo List example using @effect-atom/atom-react](https://effect-atom.kitlangton.com/todos-ii)
+    - [Todo example using @effect-atom/atom-react](https://effect-atom.kitlangton.com/todos)
+    - [Optimistic Updates example using @effect-atom/atom-react](https://effect-atom.kitlangton.com/optimistic)
+    - [get in effect atom](https://effect-atom.kitlangton.com/get-result)
+    - [Atom.fn example](https://effect-atom.kitlangton.com/atom-fn)
+    - [effectful atom example1](https://effect-atom.kitlangton.com/effectful-atom-ii)
+    - [effectful atom example2](https://effect-atom.kitlangton.com/effectful-atom)
+    - [derived atom example 1](https://effect-atom.kitlangton.com/derived-atom-ii)
+    - [derived atom example 2](https://effect-atom.kitlangton.com/derived-atom-i)
+    - [basic atom example](https://effect-atom.kitlangton.com/basic-atom)
+    - [Github.io tsdoc documentation of @effect-atom/atom-react source code](https://tim-smart.github.io/effect-atom/)
+    - open source repositories using `@effect-atom/atom-react`
+      - https://github.com/lucas-barake/building-an-app-with-effect
+      - https://github.com/livestorejs/livestore/tree/dev
+        - code pattern examples in https://github.com/livestorejs/livestore/tree/dev/docs/src/content/_assets/code/patterns/effect
+      - https://github.com/FaithBase-AI/openfaith
+        - [Open faith deepwiki](https://deepwiki.com/FaithBase-AI/openfaith)
+      - https://github.com/tim-smart/receipts
+      - https://github.com/kriegcloud/beep-effect
+      - https://github.com/kattsushi/effect-stack
+      - https://github.com/DwieDave/imageresizer
+      - https://github.com/twhitson/state-management-testbed
+      - https://github.com/jackwatters45/lax-db
+      - https://github.com/wmaurer/effect-todos
+      - https://github.com/tim-smart/bunnings-lite
+      - https://github.com/SemStassen/mason-app
+      - https://github.com/artimath/agientic
+      - https://github.com/SmarakNayak/Vermilion
+      - https://github.com/tim-smart/cheffect
+      - https://github.com/MrGeniusProgrammer/tanstack-effect-rpc-fibers-interrupted-issue
+      - https://github.com/Effect-TS/website
+      - https://github.com/samueleguino97/effect-playground
+      - https://github.com/ethanniser/effect-atom-optimistic-update-demo
+      - https://github.com/the-dev-tools/dev-tools
+      - https://github.com/nemmtor/injectio
+      - https://github.com/lloydrichards/base_bevr-stack
+      - https://github.com/davidlbowman/quick-poll
+      - https://github.com/jkbdk/eslint-react

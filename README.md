@@ -20,7 +20,7 @@ npx -y effect-mcp@latest
 To use this MCP server with Cursor, please add the following to your cursor `mcp.json`:
 
 ```json
-"effect-docs": {
+"effect-atom": {
   "command": "npx",
   "args": ["-y", "effect-mcp@latest"]
 }
@@ -31,7 +31,7 @@ To use this MCP server with Cursor, please add the following to your cursor `mcp
 To use this MCP server with Claude Code, run the following command:
 
 ```bash
-claude mcp add-json effect-docs '{
+claude mcp add-json effect-atom '{
   "command": "npx",
   "args": [
     "-y",
